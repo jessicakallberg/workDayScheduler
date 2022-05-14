@@ -3,7 +3,7 @@
 ![FontAwesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=plasticfor-the-badge&logo=fontawesome&logoColor=white)
 ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=plasticfor-the-badge&logo=bootstrap&logoColor=white)
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=plastricfor-the-badge&logo=jquery&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-00000?style=plasticfor-the-badge&logo=markdown&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=plasticfor-the-badge&logo=markdown&logoColor=white)
 
 ## ScreenShot
 
