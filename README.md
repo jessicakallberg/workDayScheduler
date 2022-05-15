@@ -1,18 +1,19 @@
-# workDayScheduler
-## Badges
-![FontAwesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=plasticfor-the-badge&logo=fontawesome&logoColor=white)
-![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=plasticfor-the-badge&logo=bootstrap&logoColor=white)
-![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=plastricfor-the-badge&logo=jquery&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=plasticfor-the-badge&logo=markdown&logoColor=white)
+# Scheduler
 
-## ScreenShot
-![Capture30](./Develop/workDayScheduler.PNG)
 ## Description
 Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugiat sit quaerat nesciunt quasi ab nemo aut cupiditate, nisi omnis ex voluptatibus fuga dolores laudantium? Magnam facere dolore quis ipsa nemo?
 
 Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugiat sit quaerat nesciunt quasi ab nemo aut cupiditate, nisi omnis ex voluptatibus fuga dolores laudantium? Magnam facere dolore quis ipsa nemo?
 
 Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugiat sit quaerat nesciunt quasi ab nemo aut cupiditate, nisi omnis ex voluptatibus fuga dolores laudantium? Magnam facere dolore quis ipsa nemo?
+
+## Badges
+![FontAwesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=plasticfor-the-badge&logo=fontawesome&logoColor=white)
+![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=plasticfor-the-badge&logo=bootstrap&logoColor=white)
+![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=plastricfor-the-badge&logo=jquery&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=plasticfor-the-badge&logo=markdown&logoColor=white)
+
+![Capture30](./Develop/Scheduler.PNG)
 
 ## Languages Used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicakallberg&layout=compact&s_count=8)](https://github.com/jessicakallberg/github-workDayScheduler)
