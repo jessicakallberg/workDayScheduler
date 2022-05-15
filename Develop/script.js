@@ -18,7 +18,7 @@ $(document).ready(function(){
         var timeNow = moment().hour();
     // Split hours into blocks and add past, present and future classes
         $(".time-block").each(function () {
-            var blockTime = parseInt($(this).attr("id").split("hour")[1]);
+            var blockTime = $(this).attr("id").split('hr')[1];
     
             if (blockTime < timeNow) {
                 $(this).removeClass("future");
@@ -37,7 +37,7 @@ $(document).ready(function(){
             }
         })
     }
-    
+
     //populate text area with save tasks
     $('#hr9 textarea').val(localStorage.getItem('hr9'))
     $('#hr10 textarea').val(localStorage.getItem('hr10'))
