@@ -1,11 +1,7 @@
 # Scheduler
 
 ## Description
-Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugiat sit quaerat nesciunt quasi ab nemo aut cupiditate, nisi omnis ex voluptatibus fuga dolores laudantium? Magnam facere dolore quis ipsa nemo?
-
-Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugiat sit quaerat nesciunt quasi ab nemo aut cupiditate, nisi omnis ex voluptatibus fuga dolores laudantium? Magnam facere dolore quis ipsa nemo?
-
-Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugiat sit quaerat nesciunt quasi ab nemo aut cupiditate, nisi omnis ex voluptatibus fuga dolores laudantium? Magnam facere dolore quis ipsa nemo?
+A work day scheduler, able to be used for reminders if needed, or to structure your day.  Color coordinated according to time blocks.  Grey is for the time that came before, and green for future time blocks.  Local storage utilized when saving the text input.  Problems faced, unable to make the current time block red.  
 
 ## Badges
 ![FontAwesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=plasticfor-the-badge&logo=fontawesome&logoColor=white)
@@ -16,6 +12,7 @@ Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugiat sit quaerat nes
 ##
 ![Capture30](./Develop/Scheduler.PNG)
 ##
+
 ## Languages Used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicakallberg&layout=compact&s_count=8)](https://github.com/jessicakallberg/github-workDayScheduler)
 
